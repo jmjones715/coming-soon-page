@@ -24,21 +24,36 @@ h1 {
   font-family: proxima-nova, sans-serif;
   font-weight: 800;
   font-style: normal;
+  color: #636569;
 }
 
 h2 {
   font-family: proxima-nova, sans-serif;
   font-weight: 800;
   font-style: normal;
+  color: #636569;
 }
 
 h3 {
   font-family: var(--font-secondary);
-  color: var(--color-tertiary-dark);
+  color: #8dc6e8;
 }
 
 h4 {
   font-family: proxima-nova, sans-serif;
   font-weight: 700;
   font-style: normal;
+  color: #8dc6e8;
+}
+
+h5 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #8dc6e8;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #898a8d;
 }
