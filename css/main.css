@@ -39,9 +39,9 @@ h2 {
 
 h3 {
   font-family: proxima-nova, sans-serif;
-  font-weight: 700;
+  font-weight: 800;
   font-style: normal;
-  color: #8dc6e8;
+  color: #636569;
 }
 
 h4 {
@@ -52,6 +52,13 @@ h4 {
 }
 
 h5 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #8dc6e8;
+}
+
+h6 {
   font-family: proxima-nova, sans-serif;
   font-weight: 700;
   font-style: normal;
