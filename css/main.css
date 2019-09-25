@@ -107,4 +107,9 @@ a {
     width: 32px;
   }
 
+  .no-top-bottm {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+  }
+
 }
