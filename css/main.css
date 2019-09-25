@@ -92,5 +92,19 @@ a {
     line-height: 1.3rem;
   }
 
+  .no-space-large {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+
+  .gutter-1 {
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
+  }
+
+  .large-social {
+    height: 32px;
+    width: 32px;
+  }
 
 }
