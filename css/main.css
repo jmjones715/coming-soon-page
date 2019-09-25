@@ -69,3 +69,28 @@ p {
   font-family: 'Open Sans', sans-serif;
   color: #898a8d;
 }
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  color: #898a8d;
+  font-weight: 700;
+}
+
+@media only screen and (min-width: 38em) {
+
+
+  .text-right-large {
+    text-align: right;
+  }
+
+  .text-left-large {
+    text-align: left;
+  }
+
+  .small-heading-large {
+    font-size: 1rem;
+    line-height: 1.3rem;
+  }
+
+
+}
