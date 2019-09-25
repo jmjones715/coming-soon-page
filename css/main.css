@@ -76,6 +76,12 @@ a {
   font-weight: 700;
 }
 
+a:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: #8dc6e8;
+  font-weight: 700;
+}
+
 @media only screen and (min-width: 38em) {
 
 
@@ -107,9 +113,13 @@ a {
     width: 32px;
   }
 
-  .no-top-bottm {
+  .no-top-bottom {
     padding-top: 0rem;
     padding-bottom: 0rem;
+  }
+
+  .no-island {
+    padding: 0rem;
   }
 
 }
