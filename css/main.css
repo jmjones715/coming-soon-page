@@ -10,7 +10,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  background-image: url("../images/jmjones-comming-soon-bgd.jpg");
   min-height: 100vh;
 }
 
@@ -21,13 +20,14 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
+  background-color: #121212;
 }
 
 h1 {
-  font-family: proxima-nova, sans-serif;
-  font-weight: 800;
+  font-family: urw-din, sans-serif;
+  font-weight: 500;
   font-style: normal;
-  color: #636569;
+  color: #FFFFFF;
 }
 
 h2 {
